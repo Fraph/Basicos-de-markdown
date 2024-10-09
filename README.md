@@ -1,3 +1,3 @@
 # Basicos-de-markdown
 
-(BASICO_MARKDOWN)[hola.md]
+[BASICO_MARKDOWN](hola.md)
